@@ -1,0 +1,13 @@
+2022-08-02 23:13:59.7350|DEBUG|NlogDemo.Nlog|The Program executing
+2022-08-02 23:13:59.7615|INFO|NlogDemo.Nlog|The values added
+2022-08-02 23:15:35.4818|DEBUG|NlogDemo.Nlog|The Program executing
+2022-08-02 23:15:35.4927|INFO|NlogDemo.Nlog|The values added9
+2022-08-02 23:17:06.8185|DEBUG|NlogDemo.Nlog|The Program executing
+2022-08-02 23:17:06.8294|INFO|NlogDemo.Nlog|The values added, Result: 9
+2022-08-02 23:17:47.5837|DEBUG|NlogDemo.Nlog|The Program executing
+2022-08-02 23:17:47.5957|INFO|NlogDemo.Nlog|The values added, Result: 10
+2022-08-02 23:18:11.9632|ERROR|NlogDemo.Nlog|A and B value are 0
+2022-08-02 23:20:57.4508|DEBUG|NlogDemo.Nlog|The Program executing
+2022-08-02 23:20:57.4699|ERROR|NlogDemo.Nlog|A and B value are 0
+2022-08-02 23:21:03.7405|DEBUG|NlogDemo.Nlog|The Program executing
+2022-08-02 23:21:03.7514|ERROR|NlogDemo.Nlog|A and B value are 0
